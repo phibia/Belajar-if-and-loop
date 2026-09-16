@@ -2,9 +2,9 @@ import 'dart:io';
 
 void main() {
 
-  // =========================
+
   // IF ELSE
-  // =========================
+
 
   var nilai = 33;
 
@@ -15,9 +15,9 @@ void main() {
   }
 
 
-  // =========================
+
   // SWITCH CASE
-  // =========================
+
 
   var nilaiHuruf = 'A';
 
@@ -35,9 +35,9 @@ void main() {
   }
 
 
-  // =========================
+
   // FOR
-  // =========================
+
 
   List datamhs = ['Sindy', 'Windy', 'Karen', 'Vincent'];
 
@@ -46,9 +46,9 @@ void main() {
   }
 
 
-  // =========================
+ 
   // FOR IN
-  // =========================
+
 
   List datamhs2 = ['Sindy', 'Windy', 'Karen', 'Vincent'];
 
@@ -57,9 +57,9 @@ void main() {
   }
 
 
-  // =========================
+  
   // FOREACH
-  // =========================
+
 
   List datamhs3 = ['Sindy', 'Windy', 'Karen', 'Vincent'];
 
@@ -68,9 +68,9 @@ void main() {
   });
 
 
-  // =========================
+
   // WHILE
-  // =========================
+
 
   List datamhs4 = ['Sindy', 'Windy', 'Karen', 'Vincent'];
 
@@ -82,9 +82,9 @@ void main() {
   }
 
 
-  // =========================
+  
   // DO WHILE
-  // =========================
+ 
 
   List datamhs5 = ['Sindy', 'Windy', 'Karen', 'Vincent'];
 
@@ -96,9 +96,9 @@ void main() {
   } while (j < datamhs5.length);
 
 
-  // =========================
+
   // INPUT PENGGUNA
-  // =========================
+
 
   List<String> jawaban = ['', '', '', ''];
 
